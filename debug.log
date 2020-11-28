@@ -1,0 +1,4 @@
+[1015/151031.138:ERROR:directory_reader_win.cc(43)] FindFirstFile: Impossibile trovare il percorso specificato. (0x3)
+[1015/231237.537:ERROR:settings.cc(325)] Settings version is not 1
+[1015/232237.541:ERROR:directory_reader_win.cc(43)] FindFirstFile: Impossibile trovare il percorso specificato. (0x3)
+[1015/235030.919:ERROR:directory_reader_win.cc(43)] FindFirstFile: Impossibile trovare il percorso specificato. (0x3)

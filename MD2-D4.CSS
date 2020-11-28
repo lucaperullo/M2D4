@@ -1,0 +1,27 @@
+body {
+  background-image: url(https://free4kwallpapers.com/uploads/originals/2020/04/07/monument-valley-flat-landscape-design-wallpaper.jpg);
+  background-size: cover;
+}
+.container {
+  text-align: center;
+  margin-top: 40vh;
+}
+a {
+  color: rgba(0, 0, 0, 0.562);
+  border: none;
+  border-radius: 10px;
+  background-color: transparent;
+}
+i {
+  border: none;
+  font-size: 80px;
+  transition: all 0.25s linear;
+}
+i:hover {
+  font-size: 83px;
+  color: rgba(18, 32, 19, 0.993);
+}
+p {
+  margin-top: 10px;
+  color: rgba(68, 73, 73, 0.918);
+}
